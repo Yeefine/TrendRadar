@@ -1,12 +1,12 @@
 # ═══════════════════════════════════════════════════════════════
-#                    CareerNote AI 内容创作提示词配置
+#                    TrendRadar AI 分析提示词配置
 #                      Version: 2.0.0
 # ═══════════════════════════════════════════════════════════════
 #
-# 此文件定义 AI 分析职场内容时使用的提示词模板
+# 此文件定义 AI 分析热点新闻时使用的提示词模板
 #
 # 可用变量（在分析时会被替换）：
-#   {language}            - 输出语言 (由 content_generation.language 配置)
+#   {language}            - 输出语言 (由 ai_analysis.language 配置)
 #   {content_mode}        - 当前内容模式
 #   {content_type}        - 内容类型描述
 #   {current_time}        - 当前时间
